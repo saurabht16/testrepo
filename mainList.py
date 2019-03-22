@@ -1,3 +1,4 @@
+# Hello i am a git lover
 from util import addMovie
 def menu():
     print("Favorite Movie Collection")
